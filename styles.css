@@ -1,0 +1,23 @@
+.err {
+  position: relative;
+}
+.title {
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  word-wrap: break-word;
+}
+.msg {
+  position: absolute;
+  top: 45.5px;
+  left: 60px;
+  word-wrap: break-word;
+}
+#icon {
+  position: absolute;
+  top: 55px;
+  left: 20px;
+}
+canvas {
+  width: 618px;
+}
